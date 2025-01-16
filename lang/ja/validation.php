@@ -256,6 +256,9 @@ return [
         'updated_at' => '更新日',
         'username' => 'ユーザー名',
         'year' => '年',
+        'title'=>'件名',
+        'body'=>'本文',
+        'image'=>'画像',
     ],
 
 ];
